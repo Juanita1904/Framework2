@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.10.12 on win32)" generated="20231115 13:51:40.383" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Usuario\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Mute Run On Failur">
+<msg timestamp="20231115 13:51:44.270" level="FAIL">No keyword with name 'Mute Run On Failur' found.</msg>
+<status status="FAIL" starttime="20231115 13:51:44.270" endtime="20231115 13:51:44.270"/>
+</kw>
+<kw name="Mute Run On Failure">
+<msg timestamp="20231115 13:52:40.407" level="FAIL">No keyword with name 'Mute Run On Failure' found.</msg>
+<status status="FAIL" starttime="20231115 13:52:40.406" endtime="20231115 13:52:40.407"/>
+</kw>
+<kw name="Mute Run On Failure *">
+<msg timestamp="20231115 13:53:08.512" level="FAIL">No keyword with name 'Mute Run On Failure *' found.</msg>
+<status status="FAIL" starttime="20231115 13:53:08.512" endtime="20231115 13:53:08.512"/>
+</kw>
+<status status="PASS" starttime="20231115 13:51:40.406" endtime="20231115 14:01:55.981"/>
+</kw>
+<status status="PASS" starttime="20231115 13:51:40.405" endtime="20231115 14:01:55.981"/>
+</test>
+<status status="PASS" starttime="20231115 13:51:40.384" endtime="20231115 14:01:55.982"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
